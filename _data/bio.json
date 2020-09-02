@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96789",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -18,12 +18,12 @@
       {
         "network": "github",
         "username": "austinschong",
-        "url": "http://github.com/austinschong"
+        "url": "http://github.com/austinschong/"
       },
       {
         "network": "linkedin",
         "username": "Austin Chong",
-        "url": "https://www.linkedin.com/in/austin-chong-7191b6139/"
+        "url": "https://www.linkedin.com/in/austin-chong-7191b6139"
       }
     ]
   },

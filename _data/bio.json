@@ -2,15 +2,14 @@
   "basics": {
     "name": "Austin Chong",
     "label": "Student",
-    "picture": "https://austinschong.github.io/images/IMG_3282.png",
+    "picture": "https://austinschong.github.io/images/IMG_3282.jpg",
     "email": "chonga3@hawaii.edu",
     "phone": "808-783-5833",
     "website": "https://austinschong.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023."
-  },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96789",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -25,18 +24,24 @@
         "network": "linkedin",
         "username": "Austin Chong",
         "url": "https://www.linkedin.com/in/austin-chong-7191b6139/"
-      },
+      }
     ]
   },
   "interests": [
     {
       "name": "Cybersecurity",
+      "keywords": [
+      ]
     },
     {
       "name": "Artificial Intelligence",
+      "keywords": [
+      ]
     },
     {
       "name": "Software Engineering",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -47,8 +52,18 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "ES6"
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
@@ -57,32 +72,24 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2019-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "3.39",
       "courses": [
         "ICS 111",
-        "ICS 211",
-        "ICS 212",
         "ICS 141",
+        "ICS 211",
         "ICS 241",
+        "ICS 212",
         "ICS 311",
         "ICS 314"
       ]
     }
   ],
   "work": [
-    {
-      "company": "United States Army Reserves",
-      "position": "Mortuary Affair Specialist",
-      "website": "",
-      "startDate": "2016-03-26",
-      "endDate": "Present",
-      "summary": "Planning and supervising the search, recovery, processing, and evacuation of the remains of U.S. Armed Forces personnel",
-      "highlights": [
-        "Facility Management Officer",
-        "Liaison Officer",
-        "Deployment in support of Operation Spartan Shield"
-    },
   ],
+  "volunteer": [
+  ],
+  "awards": [
+  ]
 }

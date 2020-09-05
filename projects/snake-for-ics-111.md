@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/snake.png
 title: Snake for ICS 111
-permalink: projects/snake
+permalink: projects/snakeforics111
 date: 2020-08-04
 labels:
   - Java

@@ -84,30 +84,34 @@
     }
   ],
   "work": [
-    "Army Reserves, 92M, Mortuary Affairs Specialist:
-      Planning and supervising the search, recovery, processing, and evacuation of the remains of U.S. Armed Forces personnel
-      Ensuring that personal effects are recovered, inventoried, and accounted for
-      Instructing in the handling and processing of contaminated remains
-      Selecting site location, establishing and supervising collection points for the receipt, care, and evacuation of human remains of U.S. Service personnel
-      Advising Commanders and headquarters staff on mortuary affairs activities and coordinating mortuary affairs activities within the command"
+    {
+      "company": "Army Reserves",
+      "position": "92M, Mortuary Affairs Specialist",
+      "startDate": "2016-03-28",
+      "endDate": "Present",
+      "summary": "Mortuary Affairs Specialists are responsible for recovery, collection, evacuation and establishment of tentative identification of each fallen member of the Department of Defense. They also inventory, contain, and evacuate personal effects of deceased DoD personnel."
+    }
   ],
   "leadership experience": [
-    "Executive Vice President, National Society of Collegiate Scholars, Manoa Chapter",
-    "Secretary, Grey Hats LLC",
-    "Facility Management Officer, Mortuary Affairs Specialist",
-    "Logistics Management, Mortuary Affairs Specialist",
-    "Subject Matter Expert, Mortuary Affairs Specialist"
+    {
+      "Executive Vice President, National Society of Collegiate Scholars, Manoa Chapter",
+      "Secretary, Grey Hats LLC",
+      "Facility Management Officer, Mortuary Affairs Specialist",
+      "Logistics Management, Mortuary Affairs Specialist",
+      "Subject Matter Expert, Mortuary Affairs Specialist"
+    }
   ],
   "awards": [
-    "Cadet of the Month, October 2019, AFROTC Detachment 175, UH Manoa",
-    "Giving Tree Scholarship, 2019, AFORTC Detachment 175, UH Manoa",
-    "The Military Order of the World Wars, Award of Merit, 2019",
-    "Army Achievement Medal, 2018",
-    "Army Forces Reserve Medal with M Device, 2018",
-    "Global War on Terrorism Expeditionary Medal, 2018",
-    "Global War on Terrorism Service Medal, 2018",
-    "Army Service Ribbon, 2016",
-    "National Defense Service Medal, 2016"
-    
+    {
+      "Cadet of the Month, October 2019, AFROTC Detachment 175, UH Manoa",
+      "Giving Tree Scholarship, 2019, AFORTC Detachment 175, UH Manoa",
+      "The Military Order of the World Wars, Award of Merit, 2019",
+      "Army Achievement Medal, 2018",
+      "Army Forces Reserve Medal with M Device, 2018",
+      "Global War on Terrorism Expeditionary Medal, 2018",
+      "Global War on Terrorism Service Medal, 2018",
+      "Army Service Ribbon, 2016",
+      "National Defense Service Medal, 2016"
+    }
   ]
 }

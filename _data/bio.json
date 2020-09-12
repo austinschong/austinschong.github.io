@@ -92,17 +92,60 @@
       "summary": "Mortuary Affairs Specialists are responsible for recovery, collection, evacuation and establishment of tentative identification of each fallen member of the Department of Defense. They also inventory, contain, and evacuate personal effects of deceased DoD personnel."
     }
   ],
-  "awards": [
-    {
-      "Cadet of the Month, October 2019, AFROTC Detachment 175, UH Manoa",
-      "Giving Tree Scholarship, 2019, AFORTC Detachment 175, UH Manoa",
-      "The Military Order of the World Wars, Award of Merit, 2019",
-      "Army Achievement Medal, 2018",
-      "Army Forces Reserve Medal with M Device, 2018",
-      "Global War on Terrorism Expeditionary Medal, 2018",
-      "Global War on Terrorism Service Medal, 2018",
-      "Army Service Ribbon, 2016",
-      "National Defense Service Medal, 2016"
-    }
-  ]
+   "awards": [
+     {
+      "title": "Cadet of the Month",
+      "date": "2019-10-01",
+      "awarder": "Air Force Reserve Officer Training Corps Detachment 175, University of Hawaii at Manoa",
+      "summary": "This award is given to the the best performing Cadet for the month."
+     },
+     {
+      "title": "Giving Tree Scholarship",
+      "date": "2019-10-01",
+      "awarder": "Air Force Reserve Officer Training Corps Detachment 175, University of Hawaii at Manoa",
+      "summary": "This award is given to the the cadets who have participated in many volunteering events in and outside of the AFROTC Program."
+     },
+     {
+      "title": "The Military Order of the World Wars Award of Merit",
+      "date": "2019-10-01",
+      "awarder": "Air Force Reserve Officer Training Corps Detachment 175, University of Hawaii at Manoa",
+      "summary": "This award is is presented to one member of the 2nd, 3rd, and 4th class for each branch of service for their diligence, demonstrated military excellence and outstanding accomplishments during the year."
+     },
+     {
+      "title": "Army Achievement Medal",
+      "date": "2018-08-01",
+      "awarder": "United States Army Reserves",
+      "summary": "This award was presented to soldiers of the 962nd Quartermaster Company for outstanding leadership and devotion in support of Operation Spartan Shield."
+     },
+     {
+      "title": "Armed Forces Reserve Medal with M Device",
+      "date": "2018-08-01",
+      "awarder": "United States Army Reserves",
+      "summary": "The AFRM with M Device is awarded to Soldiers who are involuntarily mobilized, or who voluntarily mobilize in support of specific U.S. military operations or contingencies designated by the Secretary of Defense."
+     },
+     {
+      "title": "Global War on Terrorism Expeditionary Medal",
+      "date": "2018-08-01",
+      "awarder": "United States Army Reserves",
+      "summary": "Awarded to members of the Armed Forces of the United States who deployed abroad for service in the GWOT Operations on or after 11 September, 2001."
+     },
+     {
+      "title": "Global War on Terrorism Service Medal",
+      "date": "2018-08-01",
+      "awarder": "United States Army Reserves",
+      "summary": "Awarded to members who have served on active duty during a designated anti-terrorism operation for a minimum 30 consecutive or 60 non-consecutive days."
+     },
+     {
+      "title": "Army Service Ribbon",
+      "date": "2016-07-01",
+      "awarder": "United States Army Reserves",
+      "summary": "Awarded to all members of the Regular (Active) Army, and Army National Guard and United States Army Reserve in an active reserve status, for successful completion of initial-entry training."
+     },
+     {
+      "title": "National Defense Service Medal",
+      "date": "2016-07-01",
+      "awarder": "United States Army Reserves",
+      "summary": "Awarded to every member of the US Armed Forces who have served during any one of four specified periods of armed conflict or national emergency from 1950 to the present."
+     }
+  ],
 }

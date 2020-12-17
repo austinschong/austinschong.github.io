@@ -52,8 +52,14 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
-      ]
+        "Javascript",
+        "Python,
+        "HTML/CSS"
+      ],
+      "frameworks": [
+        "Meteor",
+        "Semantic UI",
+        "React.js"
     },
     {
       "name": "Toolsets/OS",
@@ -76,8 +82,8 @@
         "ICS 111 - Introduction to Computer Science I",
         "ICS 141 - Discrete Mathematics I",
         "ICS 211 - Introduction to Computer Science II",
-        "ICS 241 - Discrete Mathematics II",
         "ICS 212 - Program Structure",
+        "ICS 241 - Discrete Mathematics II",
         "ICS 311 - Algorithms",
         "ICS 314 - Software Engineering I"
       ]

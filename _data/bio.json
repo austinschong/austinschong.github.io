@@ -54,9 +54,7 @@
         "Java",
         "Javascript",
         "Python,
-        "HTML/CSS"
-      ],
-      "frameworks": [
+        "HTML/CSS",
         "Meteor",
         "Semantic UI",
         "React.js"

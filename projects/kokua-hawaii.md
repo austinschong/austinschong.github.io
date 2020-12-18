@@ -6,8 +6,9 @@ title: Kokua-Hawaii
 permalink: projects/kokua-hawaii
 date: 2020-12-17
 labels:
-- Java
-- Gaming
+- Software Engineering
+- Web Application
+- Issue Driven Project Management
 summary: My team developed a web application for COVID information and resources.
 ---
 
